@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  --brand-primary: #0066b3;
+  --brand-secondary: #1da7a6;
+  --brand-action: #2a75d4;
+  --brand-purple: #2a75d4;
+  --brand-teal: #23a7a6;
+  --component-accent: rgba(42, 117, 212, 1);
+  --component-accent-light: rgba(42, 117, 212, 0.2);
+}
+
+@theme {
+  --color-brand-primary: var(--brand-primary);
+  --color-brand-secondary: var(--brand-secondary);
+  --color-brand-action: var(--brand-action);
+  --color-brand-purple: var(--brand-purple);
+  --color-brand-teal: var(--brand-teal);
+
+  --font-sans: var(--font-inter);
+  --font-montserrat: var(--font-montserrat);
+  --font-inter: var(--font-inter);
+  --font-poppins: var(--font-poppins);
+  --font-outfit: var(--font-outfit);
+  --font-montez: var(--font-montez);
+  --font-karma: var(--font-karma);
+
+  --animate-slide: slide 30s linear infinite;
+  --animate-fade-in: fadeIn 0.6s ease-out;
+  --animate-slide-up: slideUp 0.8s ease-out;
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-gradient: gradientShift 15s ease infinite;
+}
+
+/* Beatrice Trial fallback to Inter */
+.font-beatrice-trial,
+[class*="Beatrice_Trial"] {
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+/* Smooth scrolling and disabling default cursor for animated React cursor */
+html {
+  scroll-behavior: smooth;
+  cursor: none !important;
+}
+
+body {
+  cursor: none !important;
+  background: linear-gradient(135deg, #e6ffff 0%, #fffcde 100%);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+a,
+button,
+[role="button"],
+.cursor-pointer,
+input,
+select,
+textarea {
+  cursor: none !important;
+}
+
+/* Animation Keyframes */
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes gradientShift {
+
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+@keyframes pulse {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+}
+
+/* Utility classes for smooth animations */
+@utility fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+@utility slide-up {
+  animation: slideUp 0.8s ease-out;
+}
+
+@utility animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@utility animate-gradient {
+  background-size: 200% 200%;
+  animation: gradientShift 15s ease infinite;
+}
+
+@utility animate-gradient-flow {
+  background-size: 200% auto;
+  animation: gradientFlow 5s linear infinite;
+}
+
+@keyframes gradientFlow {
+  0% {
+    background-position: 0% center;
+  }
+
+  100% {
+    background-position: 200% center;
+  }
+}
+
+/* Dropdown animations */
+@keyframes dropdownFadeIn {
+  from {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+  }
+
+  to {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
+
+@keyframes dropdownFadeOut {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  to {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+}
+
+@utility dropdown-fade-in {
+  animation: dropdownFadeIn 0.3s ease-out forwards;
+}
+
+@utility dropdown-fade-out {
+  animation: dropdownFadeOut 0.3s ease-in forwards;
+}
