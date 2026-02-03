@@ -1,0 +1,10 @@
+<svg viewBox="0 0 1920 744" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0"><defs><filter id="filter10_f_900_4284" x="-110" y="502.5500000000002" width="2140" height="351.447" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="55" result="effect1_foregroundBlur_900_4284"/>
+</filter></defs><g id="Group 1000013506">
+<rect id="Rectangle 391_2" y="0" width="1920" height="743.499" fill="white" x="0"/>
+<g id="Overlay+Blur_2" filter="url(#filter10_f_900_4284)">
+<path d="M0,744c0,-72.6 58.8509,-131.45 131.447,-131.45h1657.103c72.6,0 131.45,58.85 131.45,131.45z" fill="currentColor" fill-opacity="0.15"/>
+</g>
+</g></svg>

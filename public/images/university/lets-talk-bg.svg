@@ -1,0 +1,16 @@
+<svg viewBox="0 0 386 385" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0"><defs><linearGradient id="paint10_linear_900_4284" x1="193" y1="-0.0016999999998006388" x2="193" y2="384.9983000000002" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DAE8FF"/>
+<stop offset="1" stop-color="#D4FFFF"/>
+</linearGradient><linearGradient id="paint11_linear_900_4284" x1="193" y1="-0.0016999999998006388" x2="193" y2="270.0682999999999" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#F7F8FA" stop-opacity="0"/>
+</linearGradient><linearGradient id="paint12_linear_900_4284" x1="192.59299999999996" y1="55.22829999999976" x2="192.59299999999996" y2="211.4983000000002" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#F7F8FA" stop-opacity="0"/>
+</linearGradient><clipPath id="clip23_900_4284">
+<rect width="386" height="385" fill="white" transform="translate(0, -0.0016999999998006388)"/>
+</clipPath></defs><g id="lets-talkBG.svg" clip-path="url(#clip23_900_4284)">
+<path id="Vector_34" d="M193,384.9983c106.59,0 193,-86.18 193,-192.5c0,-106.31 -86.41,-192.5 -193,-192.5c-106.591,0 -193,86.19 -193,192.5c0,106.32 86.409,192.5 193,192.5z" fill="url(#paint10_linear_900_4284)"/>
+<path id="Vector_35" d="M193,384.5983c106.37,0 192.59,-86.01 192.59,-192.1c0,-106.09 -86.22,-192.09 -192.59,-192.09c-106.366,0 -192.593,86 -192.593,192.09c0,106.09 86.227,192.1 192.593,192.1z" stroke="url(#paint11_linear_900_4284)" stroke-width="1.60127"/>
+<path id="Vector_36" d="M192.593,330.1783c76.007,0 137.627,-61.46 137.627,-137.27c0,-75.81 -61.62,-137.27 -137.627,-137.27c-76.008,0 -137.625,61.46 -137.625,137.27c0,75.81 61.617,137.27 137.625,137.27z" stroke="url(#paint12_linear_900_4284)" stroke-width="1.60127"/>
+</g></svg>
