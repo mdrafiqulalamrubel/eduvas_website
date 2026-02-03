@@ -1,0 +1,16 @@
+<svg viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0"><defs><filter id="filter0_d_859_2287" x="-1" y="0" width="27" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="0.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_859_2287"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_859_2287" result="shape"/>
+</filter></defs><g id="Group 22863">
+<g id="Ellipse 14" filter="url(#filter0_d_859_2287)">
+<circle cx="12.5" cy="12.5" r="12.5" fill="white"/>
+<circle cx="12.5" cy="12.5" r="12.375" stroke="white" stroke-width="0.25"/>
+</g>
+<path id="Vector_2" d="M12.5,4.393c-4.478,0 -8.109,3.63 -8.109,8.108c0,3.802 2.618,6.993 6.15,7.869v-5.391h-1.672v-2.478h1.672v-1.068c0,-2.76 1.249,-4.039 3.958,-4.039c0.514,0 1.4,0.101 1.763,0.202v2.246c-0.191,-0.021 -0.524,-0.031 -0.937,-0.031c-1.329,0 -1.843,0.504 -1.843,1.813v0.877h2.649l-0.455,2.478h-2.194v5.57c4.015,-0.484 7.126,-3.903 7.126,-8.048c0,-4.478 -3.63,-8.108 -8.108,-8.108z" fill="#2A75D4"/>
+</g></svg>

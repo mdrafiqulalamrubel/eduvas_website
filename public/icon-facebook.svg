@@ -1,0 +1,41 @@
+<svg viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0"><defs><mask id="mask0_291_75" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="15">
+<g id="clip0_1082_5350">
+<path id="Vector_17" d="M20,5h-15v15h15z" fill="white"/>
+</g>
+</mask><filter id="filter13_d_291_75" x="-1" y="0" width="27" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="0.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_291_75"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_291_75" result="shape"/>
+</filter></defs><g id="Group 1000013397">
+<g id="Group 1000013389">
+<g id="Component 7_4">
+<g id="Group 22863_4">
+<g id="Ellipse 14_6" filter="url(#filter13_d_291_75)">
+<circle cx="12.5" cy="12.5" r="12.5" fill="white"/>
+<circle cx="12.5" cy="12.5" r="12.375" stroke="white" stroke-width="0.25"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group 1000013396">
+<g id="SVG_5">
+<g id="Clip path group">
+<mask id="mask0_291_75" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="376" y="7280" width="15" height="15">
+<g id="clip0_1082_5350">
+<path id="Vector_17" d="M391 7280H376V7295H391V7280Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_291_75)">
+<g id="Group_4">
+<path id="Vector_18" fill-rule="evenodd" clip-rule="evenodd" d="M12.5,5c-4.142,0 -7.5,3.36 -7.5,7.51c0,3.32 2.149,6.14 5.129,7.13c0.375,0.07 0.512,-0.16 0.512,-0.36c0,-0.18 -0.006,-0.65 -0.01,-1.28c-2.087,0.45 -2.527,-1.01 -2.527,-1.01c-0.34,-0.86 -0.832,-1.1 -0.832,-1.1c-0.681,-0.46 0.052,-0.45 0.052,-0.45c0.752,0.05 1.148,0.77 1.148,0.77c0.669,1.15 1.755,0.82 2.182,0.63c0.069,-0.49 0.263,-0.82 0.477,-1.01c-1.665,-0.19 -3.416,-0.83 -3.416,-3.71c0,-0.82 0.293,-1.49 0.772,-2.02c-0.077,-0.19 -0.335,-0.95 0.073,-1.98c0,0 0.63,-0.21 2.063,0.77c0.612,-0.17 1.243,-0.26 1.877,-0.26c0.637,0.01 1.279,0.09 1.878,0.26c1.432,-0.98 2.06,-0.77 2.06,-0.77c0.41,1.03 0.152,1.79 0.075,1.98c0.48,0.53 0.771,1.2 0.771,2.02c0,2.89 -1.754,3.52 -3.424,3.71c0.269,0.23 0.508,0.69 0.508,1.39c0,1 -0.009,1.81 -0.009,2.06c0,0.2 0.135,0.43 0.516,0.36c1.494,-0.5 2.792,-1.46 3.712,-2.74c0.919,-1.28 1.414,-2.81 1.413,-4.39c0,-4.15 -3.358,-7.51 -7.5,-7.51z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g></svg>

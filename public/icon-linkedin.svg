@@ -1,0 +1,22 @@
+<svg viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0"><defs><filter id="filter11_d_291_75" x="-1" y="0" width="27" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="0.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_291_75"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_291_75" result="shape"/>
+</filter></defs><g id="Group 1000013395">
+<g id="Group 1000013387">
+<g id="Component 7_2">
+<g id="Group 22863_2">
+<g id="Ellipse 14_4" filter="url(#filter11_d_291_75)">
+<circle cx="12.5" cy="12.5" r="12.5" fill="white"/>
+<circle cx="12.5" cy="12.5" r="12.375" stroke="white" stroke-width="0.25"/>
+</g>
+</g>
+</g>
+</g>
+<path id="Vector_15" fill-rule="evenodd" clip-rule="evenodd" d="M13,7c0.684,0 1.386,0.02 2.066,0.04l0.803,0.04l0.769,0.04l0.72,0.05l0.657,0.05c0.714,0.05 1.386,0.33 1.897,0.8c0.511,0.47 0.829,1.1 0.898,1.76l0.032,0.32l0.06,0.68c0.056,0.71 0.098,1.48 0.098,2.22c0,0.74 -0.042,1.51 -0.098,2.22l-0.06,0.68l-0.032,0.32c-0.069,0.66 -0.387,1.29 -0.898,1.76c-0.512,0.47 -1.184,0.75 -1.898,0.8l-0.656,0.05l-0.72,0.05l-0.769,0.04l-0.803,0.04c-0.689,0.02 -1.377,0.04 -2.066,0.04c-0.689,0 -1.377,-0.02 -2.066,-0.04l-0.803,-0.04l-0.769,-0.04l-0.72,-0.05l-0.657,-0.05c-0.714,-0.05 -1.386,-0.33 -1.897,-0.8c-0.511,-0.47 -0.829,-1.1 -0.898,-1.76l-0.032,-0.32l-0.06,-0.68c-0.061,-0.74 -0.094,-1.48 -0.098,-2.22c0,-0.74 0.042,-1.51 0.098,-2.22l0.06,-0.68l0.032,-0.32c0.069,-0.66 0.387,-1.29 0.898,-1.76c0.511,-0.47 1.182,-0.75 1.896,-0.8l0.657,-0.05l0.72,-0.05l0.769,-0.04l0.804,-0.04c0.688,-0.02 1.377,-0.04 2.066,-0.04zM11.4,11.18v3.64c0,0.35 0.4,0.56 0.72,0.39l3.36,-1.82c0.073,-0.04 0.134,-0.1 0.176,-0.16c0.042,-0.07 0.065,-0.15 0.065,-0.23c0,-0.08 -0.023,-0.16 -0.065,-0.23c-0.042,-0.06 -0.103,-0.12 -0.176,-0.16l-3.36,-1.82c-0.073,-0.04 -0.156,-0.06 -0.24,-0.06c-0.084,0 -0.167,0.02 -0.24,0.06c-0.073,0.04 -0.134,0.1 -0.176,0.17c-0.042,0.07 -0.064,0.14 -0.064,0.22z" fill="#F00004"/>
+</g></svg>
